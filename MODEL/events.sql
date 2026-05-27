@@ -11,3 +11,4 @@ INSERT INTO EVENTOS (name, place, date, price, usermail, image_name) VALUES
 ('TITANIC: THE OFFICIAL EXHIBITION', 'Barcelona', '2026-05-20', 19, 'user2@example.com', 'card__img10.jpg'),
 ('Simracing - El horizonte del circuito', 'Barcelona', '2026-06-15', 15, 'user3@example.com', 'card__img11.jpg'),
 ('Magia y Comedia en el Bosc de les Fades', 'Barcelona', '2026-07-01', 12, 'user3@example.com', 'card__img12.jpg');
+('John_Yakuza', 'Barcelona', '2026-07-01', 12, 'user3@example.com', 'Yakuzakiwami.jpeg');
